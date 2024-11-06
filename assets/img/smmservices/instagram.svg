@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 27.3.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:url(#SVGID_1_);}
+	.st1{opacity:0.49;fill:url(#SVGID_00000010268836019176367380000005607391371261601184_);enable-background:new    ;}
+	.st2{fill:#FFFFFF;}
+</style>
+<g>
+	
+		<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="74.9806" y1="74.9807" x2="437.0193" y2="437.0193" gradientTransform="matrix(1 0 0 -1 0 512)">
+		<stop  offset="0" style="stop-color:#D6B43D"/>
+		<stop  offset="5.100000e-02" style="stop-color:#DBA93F"/>
+		<stop  offset="0.143" style="stop-color:#E88A45"/>
+		<stop  offset="0.164" style="stop-color:#EB8246"/>
+		<stop  offset="0.211" style="stop-color:#E7774D"/>
+		<stop  offset="0.294" style="stop-color:#DD5860"/>
+		<stop  offset="0.31" style="stop-color:#DB5164"/>
+		<stop  offset="0.464" style="stop-color:#D2466C"/>
+		<stop  offset="0.567" style="stop-color:#C93B73"/>
+		<stop  offset="0.607" style="stop-color:#CB3179"/>
+		<stop  offset="0.733" style="stop-color:#A23394"/>
+		<stop  offset="0.856" style="stop-color:#7F35AB"/>
+		<stop  offset="0.91" style="stop-color:#7D35AB"/>
+		<stop  offset="0.94" style="stop-color:#7537AA"/>
+		<stop  offset="0.964" style="stop-color:#673AA9"/>
+		<stop  offset="0.985" style="stop-color:#533DA8"/>
+		<stop  offset="1" style="stop-color:#4041A6"/>
+	</linearGradient>
+	<circle class="st0" cx="256" cy="256" r="256"/>
+	
+		<linearGradient id="SVGID_00000107577771303794449780000001366309044409075091_" gradientUnits="userSpaceOnUse" x1="124.3431" y1="387.6571" x2="437.0188" y2="74.9803" gradientTransform="matrix(1 0 0 -1 0 512)">
+		<stop  offset="0" style="stop-color:#1D1D1B"/>
+		<stop  offset="0.369" style="stop-color:#1D1D1B;stop-opacity:0.856"/>
+		<stop  offset="0.75" style="stop-color:#1D1D1B;stop-opacity:0.429"/>
+		<stop  offset="1" style="stop-color:#1D1D1B;stop-opacity:0"/>
+	</linearGradient>
+	<path style="opacity:0.49;fill:url(#SVGID_00000107577771303794449780000001366309044409075091_);enable-background:new    ;" d="
+		M511.9,248.6L388.4,125c-17.9-17.7-42-24.3-66.6-25.5H190.2c-24.6,1.2-48.7,7.8-66.6,25.5c-17.7,17.5-24.6,41.5-25.8,65.9v130.1
+		c1.2,24.3,8.1,48.3,25.8,65.9l124.9,124.9c2.5,0.1,4.9,0.1,7.4,0.1c141.4,0,256-114.6,256-256C512,253.5,512,251,511.9,248.6
+		L511.9,248.6z M191.9,382.8c-16.7-0.5-35.6-4.6-47.5-17.3c-12.3-13.2-16.9-29.1-17.5-46.9c0,0-0.8-93.9,0-125.2
+		c0.5-17.8,5.1-33.8,17.5-46.9c11.9-12.7,30.8-16.8,47.5-17.3c32-0.9,96.2-0.9,128.2,0c16.7,0.5,35.6,4.6,47.5,17.3
+		c12.3,13.2,17,29.1,17.5,46.9v1.6l-33.6-33.6c-6.5-6.5-17.1-6.5-23.6,0s-6.5,17.1,0,23.6l57.1,57.1v25.1l-70.1-70.1
+		c-32.6-32.4-85.4-32.3-117.8,0.4c-32.3,32.5-32.3,85,0,117.5l68.6,68.6C238.5,383.5,210.1,383.3,191.9,382.8L191.9,382.8z"/>
+	<g>
+		<path class="st2" d="M414.2,190.9c-1.2-24.3-8.1-48.3-25.8-65.9c-17.9-17.7-42-24.3-66.6-25.5H190.2c-24.6,1.2-48.7,7.8-66.6,25.5
+			c-17.7,17.5-24.6,41.5-25.8,65.9v130.1c1.2,24.3,8.1,48.3,25.8,65.9c17.9,17.7,42,24.3,66.6,25.5h131.5
+			c24.6-1.2,48.7-7.8,66.6-25.5c17.7-17.5,24.6-41.5,25.8-65.9L414.2,190.9z M127,193.4c0.5-17.8,5.1-33.8,17.5-46.9
+			c11.9-12.7,30.8-16.8,47.5-17.3c32-0.9,96.2-0.9,128.2,0c16.7,0.5,35.6,4.6,47.5,17.3c12.3,13.2,17,29.1,17.5,46.9v125.2
+			c-0.5,17.8-5.1,33.8-17.5,46.9c-11.9,12.7-30.8,16.8-47.5,17.3c-32,0.9-96.2,0.9-128.2,0c-16.7-0.5-35.6-4.6-47.5-17.3
+			c-12.3-13.2-16.9-29.1-17.5-46.9C127,318.6,126.1,224.7,127,193.4L127,193.4z"/>
+		<circle class="st2" cx="339.7" cy="173.2" r="16.7"/>
+		<path class="st2" d="M256,172.7c-46,0-83.3,37.3-83.3,83.3s37.3,83.3,83.3,83.3c46,0,83.3-37.3,83.3-83.3
+			C339.3,210,302,172.7,256,172.7C256,172.7,256,172.7,256,172.7z M256,309.8c-29.7,0-53.8-24.1-53.8-53.8
+			c0-29.7,24.1-53.8,53.8-53.8s53.8,24.1,53.8,53.8l0,0C309.8,285.7,285.7,309.8,256,309.8z"/>
+	</g>
+</g>
+</svg>

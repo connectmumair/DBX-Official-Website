@@ -1,0 +1,178 @@
+/* ///Responsive */
+@media (max-width: 767px) {
+    .home1-banner-section {
+      padding: 150px 30px 80px;
+    }
+      header.style-1 .container{
+          background-color: white;
+          border-radius: unset;
+          margin-top: unset;
+      }
+      .footer-section .contact-area{
+        margin-top: 40px;
+        justify-content: start !important;
+      }
+      .home1-banner-section{
+        height: 680px;
+      }
+      p{
+        font-size: 14px !important;
+      }
+  
+      .home1-about-section .about-content{
+        margin-bottom: 40px;
+      }
+      .about-bottom-area .feature-card{
+        margin-bottom: 40px;
+      }
+      .about-bottom-area .feature-card.lastfeaturecard{
+        margin-bottom: 0;
+      }
+      .home1-banner-section .banner-content > span{
+        font-size: 11px !important;
+      }
+      .home1-solution-section .fadeInDown{
+        margin-top: 40px !important;
+      }
+      .home5-portfolio-section .align-items-end{
+        margin-top: 40px !important;
+      }
+      .home5-portfolio-section .fadeInUp{
+        margin-top: 40px !important;
+      }
+      .contact-section .fadeInUp{
+        margin-top: 40px !important;
+      }
+      .footer-logo-area{
+        margin: 40px 0;
+      }
+      .footer-section .footer-top .footer-widget .rating-area{
+        padding-top: 40px !important;
+      }
+      .footer-section .footer-bottom{
+        padding:40px 0 !important
+      }
+      .sidebar-menu .sidebar-menu-wrap .main-menu > li .submenu-list li a {
+        font-size: 16px;
+    }
+    .sidebar-menu .sidebar-menu-top-area{
+      margin-bottom: 40px !important;
+    }
+    .sidebarmobmenu{
+      margin-top: 40px;
+    }
+    .sidebar-menu .sidebar-contact .getin-touch-area h4 {
+      margin-bottom: 40px !important;
+  }
+    .sidebar-menu .sidebar-contact .social-link-area h6{
+      margin-bottom: 40px !important;
+    }
+    .sidebar-menu {
+      padding: 0 0 40px;
+    }
+    .sidebar-menu .sidebar-menu-wrap .main-menu > li .dropdown-icon2{
+          width: 25px;
+          height: 25px;
+    }
+    .home1-about-section .about-content .about-section-title > span{
+      font-size: 12px !important;
+    }
+    .breadcrumb-section .banner-wrapper .banner-content .breadcrumb-list li{
+      font-size: 10px !important;
+    }
+    .section-title5 p{
+      padding-top: 40px;
+    }
+    .whyaboustimg{
+      margin-top: 40px !important;
+    }
+    .home2-process-section {
+      padding: 40px 0 0 !important;
+    }
+      .home2-process-section .process-slider-area {
+        padding: 0 3% 100px !important;
+    }
+    .aboutusindustries .col-xl-3{
+      margin-top: 40px !important;
+    }
+  
+    .service-details-tools-section .slick-list .slick-slide div{
+      width: 80px !important;
+      height: 80px !important;
+      max-width: 80px !important;
+    }
+    .sub-title5{
+      margin-bottom: 30px !important;
+    }
+    .home3-process-section .fadeInUp{
+      margin-top: 40px;
+    }
+    .home4-process-section .fadeInUp{
+      margin-top: 40px;
+    }
+    .service-details-top-area .col-lg-6 {
+      margin-top:40px !important;
+    }
+    .service-details-page .service-details-top-area .service-details-top-content p {
+      margin-bottom: 0 !important;
+    }
+    .pricing-plan-tab-area .col-xl-6 ,.pricing-plan-tab-area .col-xl-4 {
+        margin-top: 40px !important;
+    }
+    .home3-tools-section .col-lg-6 {
+        margin-top: 40px !important;
+    }
+    .home3-tools-section .col-lg-6.whychooseseobulletfirst{
+        margin-top: unset !important;
+    }
+    .home2-about-section .col-lg-4 {
+        margin-top: 40px !important;
+    }
+    .home3-process-section .row .section-title{
+        margin-bottom: 0 !important;
+    }
+    .home2-contact-section.creativesection {
+        padding: 40px 7px !important;
+    }
+   
+    li{
+        font-size: 14px !important;
+    }
+    .experience-card-wrap.mb-20{
+      margin-bottom: 40px;
+    }
+   #footercontact .footerfirsect.section-title {
+    margin-top: 0 !important;
+   }
+   .contact-page  .col-lg-8 {
+    margin-top: 40px !important;
+   }
+   #case-study-card-section .fadeInDown{
+    margin-top: 40px;
+   }
+   #case-study-card-section .fadeInDown:first-child{
+    margin-top: var(--bs-gutter-y);
+   }
+   .home4-experience-section .col-lg-12{
+    margin-top: 0;
+   }
+   .key-features{
+    margin-top: 20px !important;
+   }
+   .pricing-content .row .col-sm-6:last-child:before{
+    content: "";
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 1px;
+    background: linear-gradient(90deg, rgba(5, 45, 57, 0.17) 0%, rgba(5, 45, 57, 0) 81.82%);
+   }
+
+   .pricing-card .pricing-content ul li:last-child::before {
+    display: block;
+  }
+  .pricing-card .pricing-content ul li:last-child{
+    padding-bottom: 20px;
+  }
+  }
