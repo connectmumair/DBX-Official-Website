@@ -1,6 +1,5 @@
 <?php include('config/header.php');
 ?>
-
 	<div class="home1-banner-section">
 		<video autoplay="" loop="" muted="" class="video-home">
 			<source src="assets/video/index-video.mp4" type="video/mp4">
